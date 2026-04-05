@@ -69,4 +69,4 @@ Para que essa recuperação seja possível e confiável, a aplicação também d
 - Tesauro não é requisito do MVP inicial; é uma capacidade evolutiva (integração plugável) para validação/normalização.
 - Persistência em MongoDB.
 - Frontend em React (Vite) + RSuite.
-- Backend em JAVA + Spring Boot.
+- Backend em JAVA (Spring Boot).
